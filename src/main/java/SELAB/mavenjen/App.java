@@ -5,6 +5,6 @@ package SELAB.mavenjen;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello Kmit");
+        System.out.println("Hello");
     }
 }
